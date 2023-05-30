@@ -20,6 +20,7 @@ public class Main
         {
             System.out.println("n is  prime no.");
         }
+
         else
         {
             System.out.println("n is not prime no.");
